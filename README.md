@@ -24,7 +24,7 @@ Relevant Coursework: OOP, Algorithms, Mobile Development, Web Apps, Data Science
 
 ## 🌟 Featured Projects
 
-<img align="right" width="365" height="720" src="/theronwolcott/terpemon-flutter/images/Sequence_01.gif">
+<img align="right" width="365" height="720" src="https://raw.githubusercontent.com/theronwolcott/terpemon-flutter/main/images/Sequence_01.gif">
 
 ### [Terpémon (Flutter)](https://github.com/theronwolcott/terpemon-flutter)
 A real-time, location-based AR game built with Flutter, where players capture creatures in the real world. This project leverages GPS, compass, camera, and gyroscopes for an immersive experience. Players can interact with virtual creatures that appear based on their geographical location, creating a dynamic AR adventure.
