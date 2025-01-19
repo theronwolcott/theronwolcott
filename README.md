@@ -10,7 +10,7 @@ I'm a Software Engineer graduating in May 2025 from the University of Maryland, 
 ## 🔧 Technical Skills
 - **Programming Languages**: Java, C#, C, C++, Python, JavaScript, TypeScript, Dart, HTML, CSS, SQL
 - **Tools & Frameworks**: Visual Studio Code, Git, Docker, XCode, Jupyter, Flutter, Node.js, MongoDB, MySQL
-- **Other**: Game development in Unity (C#) and Flutter (Dart); high-level poker player
+- **Other**: Game development in Unity (C#) and Flutter (Dart); high-level chess and poker player
 
 ## 🎓 Education
 **University of Maryland, College Park**  
