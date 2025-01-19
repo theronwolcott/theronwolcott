@@ -38,7 +38,7 @@ The backend for my mobile AR game. Built using Node.js and MongoDB, this backend
 - **Key Features**: Real-time backend, MongoDB for persistent storage, deterministic spawning system
 - **Tech Stack**: Node.js, MongoDB, Express, REST APIs
 
-### [FlappyTerp (Unity)](https://github.com/theronwolcott/flappyterp-unity)
+### [FlappyTerp (Unity & C#)](https://github.com/theronwolcott/flappyterp-unity)
 A Maryland-themed version of the classic Flappy Bird, built in Unity using C#. The game allows players to control a bird navigating through pipes, with custom assets and Maryland-inspired visuals. Includes a scoring system and local leaderboard.
 
 - **Key Features**: 2D side-scrolling gameplay, custom assets, scoring system, local leaderboard
