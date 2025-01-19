@@ -13,7 +13,6 @@ I'm a Software Engineer graduating in May 2025 from the University of Maryland, 
 - **Other**: Game development in Unity (C#) and Flutter (Dart); high-level poker player
 
 ## 🎓 Education
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/146px-Maryland_Terrapins_logo.svg.png" width=30 align=left>
 **University of Maryland, College Park**  
 Bachelor of Science, Computer Science — Expected Graduation: May 2025  
 Minor in Innovation & Entrepreneurship
