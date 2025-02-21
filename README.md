@@ -26,25 +26,25 @@ Relevant Coursework: OOP, Algorithms, Advanced Data Structures, Mobile Developme
 
 <img align="right" width="365" height="720" src="https://raw.githubusercontent.com/theronwolcott/terpemon-flutter/main/images/Sequence_01.gif">
 
-### [Terpémon (Flutter)](https://github.com/theronwolcott/terpemon-flutter)
+### [Terpémon App for iOS and Android](https://github.com/theronwolcott/terpemon-flutter)
 A real-time, location-based AR mobile game built with Flutter, where players capture creatures in the real world. This project leverages GPS, compass, camera, and gyroscopes for an immersive experience. Players can interact with virtual creatures that appear based on their geographical location, creating a dynamic AR adventure.
 
 - **Key Features**: AR integration, real-time location tracking, camera and compass interaction, cross-platform (iOS & Android)
 - **Tech Stack**: Flutter, Dart, REST APIs, GPS, Device Sensors
 
-### [Terpémon (Node.js)](https://github.com/theronwolcott/terpemon-node)
+### [Terpémon Backend](https://github.com/theronwolcott/terpemon-node)
 The backend for my mobile AR game. Built using Node.js and MongoDB, this backend powers the dynamic generation and location-based spawning of creatures. The deterministic system ensures that players across the world experience the same creatures based on their location, promoting fairness and consistency.
 
 - **Key Features**: Real-time backend, MongoDB for persistent storage, deterministic spawning system
 - **Tech Stack**: Node.js, MongoDB, Express, REST APIs
 
-### [ChatTQW (Flutter)](https://github.com/theronwolcott/chattqw)  
+### [ChatTQW App for iOS and Android](https://github.com/theronwolcott/chattqw)  
 A cross-platform generative AI chatbot mobile app built with Flutter, supporting multiple LLM models (GPT-4, Claude, DeepSeek, Gemini, LLaMA, etc.). It features real-time message streaming, local state management, and persistent chat history stored via a Node.js backend.  
 
 - **Key Features:** Multi-LLM support, real-time token streaming, chat history persistence, user authentication, AI-generated chat labels, model selection  
 - **Tech Stack:** Flutter, Dart, Provider (State Management), MongoDB, REST APIs, flutter_chat_ui, gpt_markdown, SharedPreferences  
 
-### [ChatTQW (Node.js)](https://github.com/theronwolcott/chattqw-node)  
+### [ChatTQW Backend](https://github.com/theronwolcott/chattqw-node)  
 The backend for ChatTQW, providing a RESTful API for managing conversations, authentication, and chat storage. Built with Node.js and MongoDB, it enables real-time chat persistence, smart chat labeling, and user-based storage for seamless multi-device experiences.  
 
 - **Key Features:** REST API for chat storage, user authentication, MongoDB persistence, real-time message streaming, deterministic chat retrieval  
