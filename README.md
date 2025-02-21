@@ -38,6 +38,18 @@ The backend for my mobile AR game. Built using Node.js and MongoDB, this backend
 - **Key Features**: Real-time backend, MongoDB for persistent storage, deterministic spawning system
 - **Tech Stack**: Node.js, MongoDB, Express, REST APIs
 
+### [ChatTQW (Flutter)](https://github.com/theronwolcott/chattqw)  
+A cross-platform generative AI chatbot mobile app built with Flutter, supporting multiple LLM models (GPT-4, Claude, DeepSeek, Gemini, LLaMA, etc.). It features real-time message streaming, local state management, and persistent chat history stored via a Node.js backend.  
+
+- **Key Features:** Multi-LLM support, real-time token streaming, chat history persistence, user authentication, AI-generated chat labels, model selection  
+- **Tech Stack:** Flutter, Dart, Provider (State Management), MongoDB, REST APIs, flutter_chat_ui, gpt_markdown, SharedPreferences  
+
+### [ChatTQW (Node.js)](https://github.com/theronwolcott/chattqw-node)  
+The backend for ChatTQW, providing a RESTful API for managing conversations, authentication, and chat storage. Built with Node.js and MongoDB, it enables real-time chat persistence, smart chat labeling, and user-based storage for seamless multi-device experiences.  
+
+- **Key Features:** REST API for chat storage, user authentication, MongoDB persistence, real-time message streaming, deterministic chat retrieval  
+- **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, bcrypt, dotenv, REST APIs, UUID  
+
 ### [FlappyTerp (Unity & C#)](https://github.com/theronwolcott/flappyterp-unity)
 A Maryland-themed version of the classic Flappy Bird, built in Unity using C#. The game allows players to control a bird navigating through pipes, with custom assets and Maryland-inspired visuals. Includes a scoring system and local leaderboard.
 
