@@ -1,6 +1,6 @@
 # Hi, I'm Theron Wolcott 👋
 
-I'm a Software Engineer graduating in May 2025 from the University of Maryland, with a B.S. in computer science and a minor in Innovation & Entrepreneurship. I blend strong technical expertise with a business-oriented mindset, having worked in both startup environments and larger teams.
+I'm a Software Engineer that graduated from the University of Maryland in May 2025, with a B.S. in computer science and a minor in Innovation & Entrepreneurship. I blend strong technical expertise with a business-oriented mindset, having worked in both startup environments and larger teams.
 
 📍 Bethesda, MD  
 📧 theronwolcott@gmail.com  
@@ -14,7 +14,7 @@ I'm a Software Engineer graduating in May 2025 from the University of Maryland, 
 
 ## 🎓 Education
 **University of Maryland, College Park**  
-Bachelor of Science, Computer Science — Expected Graduation: May 2025  
+Bachelor of Science, Computer Science — Graduated: May 2025  
 Minor in Innovation & Entrepreneurship
 
 Awards: College Park Scholar in Public Leadership, Dean's List  
