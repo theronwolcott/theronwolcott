@@ -14,7 +14,7 @@ I'm a Software Engineer that graduated from the University of Maryland in May 20
 
 ## 🎓 Education
 **University of Maryland, College Park**  
-Bachelor of Science, Computer Science — Graduated: May 2025  
+Bachelor of Science, Computer Science — Graduated May 2025  
 Minor in Innovation & Entrepreneurship
 
 Awards: College Park Scholar in Public Leadership, Dean's List  
