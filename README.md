@@ -1,6 +1,6 @@
 # Hi, I'm Theron Wolcott 👋
 
-I'm a Software Engineer that graduated from the University of Maryland in May 2025, with a B.S. in computer science and a minor in Innovation & Entrepreneurship. I blend strong technical expertise with a business-oriented mindset, having worked in both startup environments and larger teams.
+I’m a Software Engineer and recent graduate of the University of Maryland (B.S. Computer Science, May 2025; Minor in Innovation & Entrepreneurship). I bring strong technical expertise combined with a business-oriented mindset, shaped through experience in both fast-paced startups and collaborative team environments. Passionate about building full-stack solutions and AI-driven applications that bridge technology and business impact.
 
 📍 Bethesda, MD  
 📧 theronwolcott@gmail.com  
@@ -8,17 +8,18 @@ I'm a Software Engineer that graduated from the University of Maryland in May 20
 🐙 [GitHub](https://github.com/theronwolcott)  
 
 ## 🔧 Technical Skills
-- **Programming Languages**: Java, C#, C, C++, Python, JavaScript, TypeScript, Dart, HTML, CSS, SQL
-- **Tools & Frameworks**: Visual Studio Code, Git, Docker, XCode, Jupyter, Flutter, Node.js, MongoDB, MySQL
+- **Programming Languages**: Java, TypeScript, JavaScript, C#, C, C++, Python, Dart, HTML, CSS, SQL
+- **Tools & Frameworks**: VS Code, Git, Node, React, React Query, Nest.js, Flutter, OpenAI Agents SDK
 - **Other**: Game development in Unity (C#) and Flutter (Dart); high-level chess and poker player
 
 ## 🎓 Education
 **University of Maryland, College Park**  
-Bachelor of Science, Computer Science — Graduated May 2025  
-Minor in Innovation & Entrepreneurship
+Bachelor of Science, Computer Science — Graduated May 2025 — GPA 3.6  
+Minor in Innovation & Entrepreneurship, Robert H. Smith School of Business
 
-Awards: College Park Scholar in Public Leadership, Dean's List  
-Relevant Coursework: OOP, Algorithms, Advanced Data Structures, Mobile Development, Web Application Development, Database Design, Data Science, Human-Computer Interaction, Computer & Network Security
+**Awards:** College Park Scholar in Public Leadership, Dean's List  
+**CS Coursework:** Object-Oriented Programming, Algorithms, Advanced Data Structures, Mobile Development, Web Application Development, Database Design, Data Science, Human-Computer Interaction, Computer & Network Security  
+**Business Coursework:** Entrepreneurship, Negotiations, Entrepreneurial Finance, Growth Strategies, Systems Thinking & Design
 
 ---
 
@@ -78,12 +79,14 @@ A computer security project where I implemented encryption and decryption system
 
 ## 💼 Work Experience
 
-**Streamed AI** — Software Engineer Intern (May 2024 – August 2024)  
-Developed RESTful APIs for a startup combining streaming data with Generative AI to build no-code GPT Assistants. Technologies used: .NET, C#, PostgreSQL, Next.js, TypeScript.
+**Streamed AI** — AI Software Engineer Intern (Summer 2024 and February - August 2025)  
+Venture-backed startup building a no-code platform to connect real-time data to any AI agent or assistant.
+- Designed, built, tested and implemented RESTful APIs to power customer-facing management console
+- Created and tested AI agents and workflows using OpenAI Agents SDK to integrate tools for real-time data.
 
 **Clutch.co** — Growth Strategy Externship (Sep 2023 – Dec 2023)  
-Worked with the Chief Revenue Officer and VP of Marketing to devise a growth strategy for expanding Clutch’s B2B enterprise channel.
+Collaborated with Chief Revenue Officer and VP of Marketing to develop and present a growth marketing strategy, with specific tactics and recommendations, for online B2B marketplace Clutch to expand its enterprise channel.
 
 ---
 
-Feel free to reach out to me through any of the contact links, and don’t hesitate to check out my repositories for more insights into my work and projects! 😄
+Feel free to reach out to me through any of the contact links, and don’t hesitate to check out my repositories for more insights into my work and projects!
